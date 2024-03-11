@@ -1,0 +1,6 @@
+/* Button.module.css */
+
+.button:hover {
+  background-color: transparent;
+  border: 2px solid #ff0000; /* Example border color */
+}

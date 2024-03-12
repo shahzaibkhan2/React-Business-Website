@@ -21,7 +21,7 @@ const Testimonial = () => {
             Whatever you need is provided like accepting all kind of card
             payments and growing your business anywhere on the planet. We warmly
             welcome you to our company The{" "}
-            <span className="text-gradient">ARWiC</span>
+            <span className="text-gradient">The Business</span>
           </p>
         </div>
       </div>

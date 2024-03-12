@@ -40,7 +40,7 @@ const Business = () => {
           Choosing a right company for your projects makes your life a way more
           easier and flexible and can have a better quality of work. Connect
           with us and explore one of our best developers in the{" "}
-          <span className="text-gradient">ARWiC</span> team.
+          <span className="text-gradient">The Business</span> team.
         </p>
 
         <Button styles="mt-10" />

@@ -20,7 +20,7 @@ const Testimonial = () => {
           <p className={`${styles.paragraph} max-w-[450px] text-left`}>
             Whatever you need is provided like accepting all kind of card
             payments and growing your business anywhere on the planet. We warmly
-            welcome you to our company The{" "}
+            welcome you to our company
             <span className="text-gradient">The Business</span>
           </p>
         </div>
